@@ -1,5 +1,6 @@
 # AP2
 >>> Repositório de estudos da disciplina de Algoritmo e Programação II.
+
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 Olá :D 
