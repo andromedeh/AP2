@@ -8,8 +8,8 @@ Olá :D
 O objetivo dessa seção é exercitar alguns conhecimentos adquiridos com a disciplina de Algoritmo e Programação II, na qual foram trabalhados conceitos de POO, por meio da linguagem Java. 
 
 Exercícios desse repositório:
-*Calculadora  simples (finalizado)
-*Conversor de temperatura (pendente)
-*Calculadora de IMC (pendente)
+-> Calculadora  simples (finalizado) \n
+-> Conversor de temperatura (pendente) \n
+-> Calculadora de IMC (pendente) \n
 
 Projetos desenvolvidos em Java com implementação do JavaFX e SceneBuilder.
