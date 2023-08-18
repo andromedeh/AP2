@@ -9,7 +9,7 @@ O objetivo dessa seção é exercitar alguns conhecimentos adquiridos com a disc
 
 Exercícios desse repositório: <br>
 -> Calculadora  simples (concluído) <br>
--> Conversor de temperatura (pendente) <br>
+-> Conversor de medidas (concluído) <br>
 -> Calculadora de IMC (pendente) <br>
 
 Projetos desenvolvidos em Java com implementação do JavaFX e SceneBuilder.
